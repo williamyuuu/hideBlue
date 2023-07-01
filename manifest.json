@@ -1,0 +1,11 @@
+{
+    "name": "Hide Blue",
+    "version": "1.0.0",
+    "description": "Extension to hide Twitter Blue users",
+    "manifest_version": 3,
+    "author": "William Yu",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Hide Blue"
+    }
+}
